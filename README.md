@@ -1,0 +1,1 @@
+# Static-Web-app-ready-for-django-integration
