@@ -14,6 +14,7 @@ var mobileNav = document.querySelector('.mobile-nav');
 
 console.dir(mainMenu);
 console.dir(subMenu);
+console.log("Testing new Branch");
 //  console.dir(selectPlanButton);
 
 for(var i = 0; i < selectPlanButtons.length; i++){
